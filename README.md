@@ -22,10 +22,11 @@
 
 ## ReadMe
 - Your readme should include the following information:
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assignment?
+	- How long did it take you to complete this assignment? 3 hours
+	- What did you struggle with? Why? How did you solve? I struggled with how toknow I'd completed the assignment. I felt like because nothing was happening with the app, it was hard to know when 
+	I'd met all of the requirements.
+	- What did you learn during this assignment? I learned that all we need to do for this assignment is successfully add additional tables and do so after the first migration.
+    - What resources did you utilize for this assignment? my teammates and the notes I took from the previous class demo
 
 ## Rubric
 - 2pts: Application runs without any errors
