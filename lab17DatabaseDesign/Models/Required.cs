@@ -9,5 +9,6 @@ namespace lab17DatabaseDesign.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
+        public int DestinationID { get; set; }
     }
 }

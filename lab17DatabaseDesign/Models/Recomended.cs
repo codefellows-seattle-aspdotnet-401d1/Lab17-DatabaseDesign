@@ -22,6 +22,7 @@ namespace lab17DatabaseDesign.Models
         public string Name { get; set; }
         public Size Size { get; set; }
         public Weight Weight { get; set; }
+        public int DestinationID { get; set; }
 
     }
 }
