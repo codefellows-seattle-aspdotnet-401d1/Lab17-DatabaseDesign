@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\lab17miya.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\lab17miya.csproj",
       "projectName": "lab17miya",
-      "projectPath": "C:\\Users\\shami\\Source\\Repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\lab17miya.csproj",
+      "projectPath": "C:\\Users\\shami\\source\\repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\lab17miya.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\Source\\Repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\obj\\",
+      "outputPath": "C:\\Users\\shami\\source\\repos\\Lab17-DatabaseDesign\\lab17miya\\lab17miya\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
