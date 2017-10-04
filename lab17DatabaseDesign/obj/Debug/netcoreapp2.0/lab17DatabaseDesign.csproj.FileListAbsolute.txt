@@ -9,3 +9,14 @@ C:\Users\admin\source\repos\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\ne
 C:\Users\admin\source\repos\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.pdb
 C:\Users\admin\source\repos\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.dll
 C:\Users\admin\source\repos\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.pdb
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.deps.json
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.dll
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\bin\Debug\netcoreapp2.0\lab17DatabaseDesign.pdb
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.dll
+C:\Users\admin\codefellows\401\lab17DatabaseDesign\lab17DatabaseDesign\obj\Debug\netcoreapp2.0\lab17DatabaseDesign.pdb
