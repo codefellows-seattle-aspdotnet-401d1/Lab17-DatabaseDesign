@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\bin\Debug\netcoreapp2.0\Lab17Tom.deps.json
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\bin\Debug\netcoreapp2.0\Lab17Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\bin\Debug\netcoreapp2.0\Lab17Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\bin\Debug\netcoreapp2.0\Lab17Tom.dll
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\bin\Debug\netcoreapp2.0\Lab17Tom.pdb
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.dll
+C:\Users\Tom\source\repos\Lab17-DatabaseDesign\Lab17Tom\obj\Debug\netcoreapp2.0\Lab17Tom.pdb
