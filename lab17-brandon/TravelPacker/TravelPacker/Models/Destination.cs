@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace TravelPacker.Models
 {
     public class Destination
     {
+        [Key]
         public int ID { get; set; }
+        [Required]
         public string LocationName { get; set; }
         public string Country { get; set; }
         public string Climate { get; set; }
