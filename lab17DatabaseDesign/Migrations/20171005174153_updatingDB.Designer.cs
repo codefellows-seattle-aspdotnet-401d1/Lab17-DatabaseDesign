@@ -11,9 +11,10 @@ using System;
 namespace lab17DatabaseDesign.Migrations
 {
     [DbContext(typeof(lab17DatabaseDesignContext))]
-    partial class lab17DatabaseDesignContextModelSnapshot : ModelSnapshot
+    [Migration("20171005174153_updatingDB")]
+    partial class updatingDB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -36,20 +37,7 @@ namespace lab17DatabaseDesign.Migrations
                     b.ToTable("Destinations");
                 });
 
-            modelBuilder.Entity("lab17DatabaseDesign.Models.DestinationSupplies", b =>
-                {
-                    b.Property<int>("DestinationID");
-
-                    b.Property<int>("RecomendedsID");
-
-                    b.Property<int>("RequiredsID");
-
-                    b.HasKey("DestinationID", "RecomendedsID");
-
-                    b.ToTable("DestinationSupplies");
-                });
-
-            modelBuilder.Entity("lab17DatabaseDesign.Models.Recomendeds", b =>
+            modelBuilder.Entity("lab17DatabaseDesign.Models.Recomended", b =>
                 {
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd();
@@ -66,10 +54,10 @@ namespace lab17DatabaseDesign.Migrations
 
                     b.HasIndex("DestinationsID");
 
-                    b.ToTable("Recomendeds");
+                    b.ToTable("Recomended");
                 });
 
-            modelBuilder.Entity("lab17DatabaseDesign.Models.Requireds", b =>
+            modelBuilder.Entity("lab17DatabaseDesign.Models.Required", b =>
                 {
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd();
@@ -85,14 +73,14 @@ namespace lab17DatabaseDesign.Migrations
                     b.ToTable("Required");
                 });
 
-            modelBuilder.Entity("lab17DatabaseDesign.Models.Recomendeds", b =>
+            modelBuilder.Entity("lab17DatabaseDesign.Models.Recomended", b =>
                 {
                     b.HasOne("lab17DatabaseDesign.Models.Destinations")
                         .WithMany("Recomended")
                         .HasForeignKey("DestinationsID");
                 });
 
-            modelBuilder.Entity("lab17DatabaseDesign.Models.Requireds", b =>
+            modelBuilder.Entity("lab17DatabaseDesign.Models.Required", b =>
                 {
                     b.HasOne("lab17DatabaseDesign.Models.Destinations")
                         .WithMany("Required")

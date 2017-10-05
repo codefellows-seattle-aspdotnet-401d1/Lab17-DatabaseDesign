@@ -15,14 +15,13 @@ namespace lab17DatabaseDesign.Models
         Light, Medium, Heavy
     }
 
-    public class Recomended
+    public class Recomendeds
     {
 
         public int ID { get; set; }
         public string Name { get; set; }
         public Size Size { get; set; }
         public Weight Weight { get; set; }
-        public int DestinationID { get; set; }
 
     }
 }
