@@ -1,0 +1,11 @@
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\bin\Debug\netcoreapp2.0\Lab17George.deps.json
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\bin\Debug\netcoreapp2.0\Lab17George.runtimeconfig.json
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\bin\Debug\netcoreapp2.0\Lab17George.runtimeconfig.dev.json
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\bin\Debug\netcoreapp2.0\Lab17George.dll
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\bin\Debug\netcoreapp2.0\Lab17George.pdb
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.csprojResolveAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.AssemblyInfoInputs.cache
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.AssemblyInfo.cs
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.dll
+C:\Users\Georg\OneDrive\Documents\GitHub\Lab17-DatabaseDesign\Lab17George\Lab17George\obj\Debug\netcoreapp2.0\Lab17George.pdb
