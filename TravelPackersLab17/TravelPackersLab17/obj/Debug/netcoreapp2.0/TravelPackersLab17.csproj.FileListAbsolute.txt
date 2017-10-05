@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\bin\Debug\netcoreapp2.0\TravelPackersLab17.deps.json
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\bin\Debug\netcoreapp2.0\TravelPackersLab17.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\bin\Debug\netcoreapp2.0\TravelPackersLab17.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\bin\Debug\netcoreapp2.0\TravelPackersLab17.dll
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\bin\Debug\netcoreapp2.0\TravelPackersLab17.pdb
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.dll
+C:\Users\Duane Rush\source\repos\Lab17-DatabaseDesign\TravelPackersLab17\TravelPackersLab17\obj\Debug\netcoreapp2.0\TravelPackersLab17.pdb
