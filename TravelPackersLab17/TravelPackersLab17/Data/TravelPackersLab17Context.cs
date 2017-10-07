@@ -16,5 +16,7 @@ namespace TravelPackersLab17.Models
         public DbSet<TravelPackersLab17.Models.Destination> Destination { get; set; }
         public DbSet<TravelPackersLab17.Models.Supplies> Supplies { get; set; }
         public DbSet<TravelPackersLab17.Models.Weather> Weather { get; set; }
+
+
     }
 }

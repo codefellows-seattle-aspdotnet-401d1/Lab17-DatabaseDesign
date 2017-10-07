@@ -12,7 +12,6 @@ namespace TravelPackersLab17.Models
         public int DestinationID { get; set; }
         public string Location { get; set; }
         public string Country { get; set; }
-        public Weathers Weathers { get; set; }
         public int WeatherID { get; set; }
     }
 }

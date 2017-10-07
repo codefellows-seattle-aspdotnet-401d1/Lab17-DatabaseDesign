@@ -11,6 +11,6 @@ namespace TravelPackersLab17.Models
         [Key]
         public int WeatherID { get; set; }
         public string Climate { get; set; }
-        public int SuppliesID { get; set; }
+        public ICollection<Supplies> Supplies { get; set; }
     }
 }

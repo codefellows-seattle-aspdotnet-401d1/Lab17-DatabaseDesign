@@ -11,9 +11,10 @@ using TravelPackersLab17.Models;
 namespace TravelPackersLab17.Migrations
 {
     [DbContext(typeof(TravelPackersLab17Context))]
-    partial class TravelPackersLab17ContextModelSnapshot : ModelSnapshot
+    [Migration("20171005171654_supplyCollection")]
+    partial class supplyCollection
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

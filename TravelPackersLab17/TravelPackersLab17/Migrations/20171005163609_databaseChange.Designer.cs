@@ -11,9 +11,10 @@ using TravelPackersLab17.Models;
 namespace TravelPackersLab17.Migrations
 {
     [DbContext(typeof(TravelPackersLab17Context))]
-    partial class TravelPackersLab17ContextModelSnapshot : ModelSnapshot
+    [Migration("20171005163609_databaseChange")]
+    partial class databaseChange
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -53,8 +54,6 @@ namespace TravelPackersLab17.Migrations
 
                     b.HasKey("SupplyID");
 
-                    b.HasIndex("WeatherID");
-
                     b.ToTable("Supplies");
                 });
 
@@ -65,17 +64,11 @@ namespace TravelPackersLab17.Migrations
 
                     b.Property<string>("Climate");
 
+                    b.Property<int>("SuppliesID");
+
                     b.HasKey("WeatherID");
 
                     b.ToTable("Weather");
-                });
-
-            modelBuilder.Entity("TravelPackersLab17.Models.Supplies", b =>
-                {
-                    b.HasOne("TravelPackersLab17.Models.Weather")
-                        .WithMany("Supplies")
-                        .HasForeignKey("WeatherID")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }
