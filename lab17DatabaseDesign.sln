@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab17DatabaseDesign", "lab17DatabaseDesign\lab17DatabaseDesign.csproj", "{C0CF7DDB-211C-4002-9278-B3215C6D58B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab17DatabaseDesign", "lab17DatabaseDesign\lab17DatabaseDesign.csproj", "{C0CF7DDB-211C-4002-9278-B3215C6D58B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{00FF3A45-F950-4902-A70E-106001492EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab17DatabaseDesign.Tests", "lab17DatabaseDesign.Tests\lab17DatabaseDesign.Tests.csproj", "{C57533B5-11D4-4A13-B4B3-37E6FFB3C411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{C0CF7DDB-211C-4002-9278-B3215C6D58B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CF7DDB-211C-4002-9278-B3215C6D58B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CF7DDB-211C-4002-9278-B3215C6D58B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57533B5-11D4-4A13-B4B3-37E6FFB3C411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57533B5-11D4-4A13-B4B3-37E6FFB3C411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57533B5-11D4-4A13-B4B3-37E6FFB3C411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57533B5-11D4-4A13-B4B3-37E6FFB3C411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C57533B5-11D4-4A13-B4B3-37E6FFB3C411} = {00FF3A45-F950-4902-A70E-106001492EE7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8CC1D302-4E9B-4BA5-BF4C-6900B941701B}
