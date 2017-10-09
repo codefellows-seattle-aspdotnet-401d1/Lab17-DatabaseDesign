@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TravelPackersLab17.Models.Weather>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Climate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SuppliesID)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Climate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SuppliesID)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.WeatherID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.WeatherID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.WeatherID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
