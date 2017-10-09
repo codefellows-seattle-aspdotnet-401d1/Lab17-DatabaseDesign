@@ -11,8 +11,8 @@ namespace lab17DatabaseDesign.Models
         public string Name { get; set; }
         public string Country { get; set; }
         public string Currncy { get; set; }
-        public ICollection<Required> Required { get; set; }
-        public ICollection<Recomended> Recomended { get; set; }
+        public ICollection<Requireds> Required { get; set; }
+        public ICollection<Recomendeds> Recomended { get; set; }
         
     }
 }

@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace lab17DatabaseDesign.Models
 {
-    public class Required
+    public class DestinationSupplies
     {
-        public int ID { get; set; }
-        public string Name { get; set; }
         public int DestinationID { get; set; }
+        public int RecomendedsID { get; set; }
+        public int RequiredsID { get; set; }
     }
 }
